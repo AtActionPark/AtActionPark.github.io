@@ -1,4 +1,4 @@
-highlighter: pygments
+highlighter: true
 
 # Permalinks
 #
@@ -11,7 +11,7 @@ title:               Test
 tagline:             Hopefully it works...
 url:                 #
 paginate:            10
-baseurl:             "/"
+baseurl:             ""
 excerpt_separator: "<!--more-->"
 
 # Assets
