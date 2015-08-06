@@ -11,7 +11,7 @@ title:               Test
 tagline:             Hopefully it works...
 url:                 #
 paginate:            10
-baseurl:             "https://github.com/AtActionPark/AtActionPark.github.io/"
+baseurl:             "/"
 excerpt_separator: "<!--more-->"
 
 # Assets
