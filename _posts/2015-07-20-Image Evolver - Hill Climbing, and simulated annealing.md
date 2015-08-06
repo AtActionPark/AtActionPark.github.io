@@ -139,7 +139,8 @@ But still, it was fun.
 
 EDIT: After a few more tries, I ended up adding a method for adding new polygons to the population after x unsuccessful attemps. It seems that the best results are obtained by starting with a low poly count, and progressively adding new ones when the simulation starts to slow down. Perhaps I should measure the fitness variation over time instead to decide when to add new polys.
 
-Obligatory Mona Lisa result (180 polys): ![Mona result](/images/result.png)
+Obligatory Mona Lisa result (180 polys): 
+![Mona result](/images/Result.png)
 
 If you squeeze your eyes real hard it's pretty good. It's still very far from the Roger Alsing's implementation. Any ideas on what I did wrong?
 
