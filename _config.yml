@@ -1,3 +1,5 @@
+highlighter: rouge
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
@@ -8,8 +10,9 @@ relative_permalinks: true
 title:               Test
 tagline:             Hopefully it works...
 url:                 #
-paginate:            1
+paginate:            10
 baseurl:             ""
+excerpt_separator: "<!--more-->"
 
 # Assets
 #
