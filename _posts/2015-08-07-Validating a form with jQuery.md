@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Canvas to build games in the browser
+title: Validating a Form with jQuery
 ---
 
 ># [Project: Validating a Form with jQuery](http://www.theodinproject.com/javascript-and-jquery/validating-a-form-with-jquery)
