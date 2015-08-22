@@ -134,6 +134,12 @@ I end up with something like that:
 
 Look at all the money I'm gonna make!
 
+I also took some time to fix the projects index page. I redid all the css and added pagination and infinite scroll with ajax. I tried to do it the way I did the odin project ajax scroll tutorial, but after a lot of sweat and tears, I ended up following [this tutorial](http://www.sitepoint.com/infinite-scrolling-rails-basics/).
+
+Its always easier when you dont have to think...
+
+And a message for future me, I hope you know coffeescript by now. Having to translate into js everytime to make sure you understand everything is not a viable option in the long term.
+
 
 
 
