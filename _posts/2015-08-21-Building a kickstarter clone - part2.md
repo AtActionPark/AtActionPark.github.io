@@ -23,7 +23,8 @@ end
 Nothing fancy here. Just make sure to add has_many :donations to both the user and project model.
 
 Then add a integer field and button to the project show page so that a logged user can decide to donate:
-{% highlight ruby %}
+
+{% highlight ERB %}
 # app/views/projects/show.html.erb
 
 ...
@@ -83,7 +84,7 @@ The form submits the project id and the amount as params. We then create a donat
 
 On save, we then update the project amount attribute by adding the current donation, then proceed to execute the js in app/views/donations/create.js.erb:
 
-{% highlight javascript %}
+{% highlight ERB %}
 if (<%= @amount %> > 0){
   $('.amount').html(<%= @amount %> + "€");
   $('.amount').fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100);

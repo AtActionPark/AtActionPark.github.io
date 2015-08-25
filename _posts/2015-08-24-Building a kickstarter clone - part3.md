@@ -13,7 +13,7 @@ So adding the category is easy, its just a matter of adding a field to my db.
 Just run `rails g migration  AddCategoryToProjects category:string` and `rake db:migrate`, and as usual, add the field in the new and edit view
 
 
-{% highlight ruby %}
+{% highlight ERB %}
 # _project_form.html.erb
 
  <%= f.label :'Categorie' %><br>
@@ -138,7 +138,7 @@ Here what happens is filterrific is gonna take care of building the new indew ba
 
 I then only need to change my index view: 
 
-{% highlight ruby %}
+{% highlight ERB %}
 <div id="projects" >
 <%= form_for_filterrific @filterrific do |f| %>
   <div class="filterrific">

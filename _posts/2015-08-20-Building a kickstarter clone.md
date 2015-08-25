@@ -76,7 +76,8 @@ To finish with the users avatar I needed to declare the attachment in the User m
 It creates 2 templates for the images, medium and thumb
 
 After migrating and unpacking the devise user views, I could add the name field to registration views. Here is the edit one for reference:
-{% highlight ruby %}
+
+{% highlight ERB %}
 <h2>Edit <%= resource_name.to_s.humanize %></h2>
 
 <%= form_for(resource, as: resource_name, url: registration_path(resource_name),html: { method: :put }) do |f| %>
