@@ -144,4 +144,4 @@ And a message for future me, I hope you know coffeescript by now. Having to tran
 
 
 
-Here is the [code](https://github.com/AtActionPark) and [html preview](https://shielded-taiga-9226.herokuapp.com/)
+Here is the [code](https://github.com/AtActionPark) and [result](https://shielded-taiga-9226.herokuapp.com/)

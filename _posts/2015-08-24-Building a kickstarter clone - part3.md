@@ -182,4 +182,4 @@ It still needs a bit of polish but it works well enough for now.
 
 
 
-Here is the [code](https://github.com/AtActionPark) and [html preview](https://shielded-taiga-9226.herokuapp.com/)
+Here is the [code](https://github.com/AtActionPark) and [result](https://shielded-taiga-9226.herokuapp.com/)
