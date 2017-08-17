@@ -182,4 +182,4 @@ I added disqus comments to my project show pages, after registering my site, and
 For now.
 
 
-Here is the [code](https://github.com/AtActionPark) and [result](https://shielded-taiga-9226.herokuapp.com/)
+Here is the [code](https://github.com/AtActionPark/gimme_plz) and [result](https://shielded-taiga-9226.herokuapp.com/)

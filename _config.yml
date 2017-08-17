@@ -4,7 +4,7 @@ highlighter: pygments
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+
 
 # Setup
 title:               Test
@@ -28,4 +28,6 @@ author:
 
 # Custom vars
 version:             1.0.0
+github: [metadata] 
+repository: AtActionPark/AtActionPar.github.io
 

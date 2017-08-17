@@ -1,4 +1,4 @@
----
+--
 layout: post
 title: Building a kickstarter clone with rails part 4
 ---
@@ -260,4 +260,4 @@ Thanks former self.
 
 And by the way, i wrote almost no comments on my code. But surely that will never be a problem, right?
 
-Here is the [code](https://github.com/AtActionPark) and [result](https://shielded-taiga-9226.herokuapp.com/)
+Here is the [code](https://github.com/AtActionPark/gimme_plz) and [result](https://shielded-taiga-9226.herokuapp.com/)
